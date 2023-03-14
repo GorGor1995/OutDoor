@@ -1,0 +1,51 @@
+.block4 {
+    display: flex;
+}
+.block4-image {
+    padding-left: 175px;
+    padding-top: 100px;
+}
+.b4-name {
+    color: #E6B939;
+    font-family: 'Poppins';
+    font-style: 'Regular';
+    font-size: 16px;
+    letter-spacing: 1px;
+
+    padding-top: 180px;
+    padding-left: 50px;
+
+}
+.b4-title {
+    font-family: 'Roboto';
+    font-style: 'Regular';
+    Font-size: 36px;
+    color: #575445;
+    
+    padding-left: 50px;
+    padding-top: 10px;
+}
+.b4-text {
+    font-family: 'Poppins';
+    font-style: 'Regular';
+    font-size: 16px;
+
+    color: #575445;
+
+    padding-left: 50px;
+    padding-top: 10px;
+
+}
+.b4-link {
+    padding-left: 50px;
+    padding-top: 10px;
+}
+.b4-ln {
+    text-decoration: none;
+    color: #575445;
+    transition: 0.3s linear;
+
+}
+.b4-ln:hover {
+    color: red;
+}

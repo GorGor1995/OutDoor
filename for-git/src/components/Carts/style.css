@@ -1,0 +1,186 @@
+.carts-name {
+    font-style: 'Regular';
+    font-size: 16px;
+    font-family: 'Poppins';
+    color: #f1b308;
+    letter-spacing: 2px;
+
+    text-align: center;
+    padding-top: 50px;
+}
+.carts-tit {
+    font-family: 'Roboto';
+    font-style: 'Regular';
+    Font-size: 36px;
+    color: #575445;
+    text-align: center;
+}
+.carts-sub {
+    font-style: 'Regular';
+    font-size: 16px;
+    font-family: 'Poppins';
+    text-align: center;
+    color: #575445;
+}
+.carts-up {
+    display: flex;
+}
+.carts-down {
+    display: flex;
+}
+
+.cart1-img {
+    padding-left: 300px;
+    padding-top: 90px;
+   
+}
+.cart1-title {
+    font-family: 'Roboto';
+    font-style: 'Regular';
+    Font-size: 20px;
+    color: #575445;
+   
+    
+    padding-left: 240px;
+    padding-top: 10px;
+}
+.cart1-sub {
+    font-style: 'Regular';
+    font-size: 16px;
+    font-family: 'Poppins';
+    color: #575445;
+   
+    text-align: center;
+    padding-left: 170px;
+    padding-top: 10px;
+}
+
+.cart2-img {
+    padding-left: 300px;
+    padding-top: 90px;
+   
+}
+.cart2-title {
+    font-family: 'Roboto';
+    font-style: 'Regular';
+    Font-size: 20px;
+    color: #575445;
+   
+    
+    padding-left: 240px;
+    padding-top: 10px;
+}
+.cart2-sub {
+    font-style: 'Regular';
+    font-size: 16px;
+    font-family: 'Poppins';
+    color: #575445;
+   
+    text-align: center;
+    padding-left: 170px;
+    padding-top: 10px;
+}
+
+.cart3-img {
+    padding-left: 300px;
+    padding-top: 90px;
+   
+}
+.cart3-title {
+    font-family: 'Roboto';
+    font-style: 'Regular';
+    Font-size: 20px;
+    color: #575445;
+   
+    
+    padding-left: 240px;
+    padding-top: 10px;
+}
+.cart3-sub {
+    font-style: 'Regular';
+    font-size: 16px;
+    font-family: 'Poppins';
+    color: #575445;
+   
+    text-align: center;
+    padding-left: 170px;
+    padding-top: 10px;
+}
+
+.cart4-img {
+    padding-left: 300px;
+    padding-top: 90px;
+   
+}
+.cart4-title {
+    font-family: 'Roboto';
+    font-style: 'Regular';
+    Font-size: 20px;
+    color: #575445;
+   
+    
+    padding-left: 240px;
+    padding-top: 10px;
+}
+.cart4-sub {
+    font-style: 'Regular';
+    font-size: 16px;
+    font-family: 'Poppins';
+    color: #575445;
+   
+    text-align: center;
+    padding-left: 170px;
+    padding-top: 10px;
+}
+
+.cart5-img {
+    padding-left: 300px;
+    padding-top: 90px;
+   
+}
+.cart5-title {
+    font-family: 'Roboto';
+    font-style: 'Regular';
+    Font-size: 20px;
+    color: #575445;
+   
+    
+    padding-left: 240px;
+    padding-top: 10px;
+}
+.cart5-sub {
+    font-style: 'Regular';
+    font-size: 16px;
+    font-family: 'Poppins';
+    color: #575445;
+   
+    text-align: center;
+    padding-left: 170px;
+    padding-top: 10px;
+}
+
+.cart6-img {
+    padding-left: 300px;
+    padding-top: 90px;
+   
+}
+.cart6-title {
+    font-family: 'Roboto';
+    font-style: 'Regular';
+    Font-size: 20px;
+    color: #575445;
+   
+    
+    padding-left: 240px;
+    padding-top: 10px;
+}
+.cart6-sub {
+    font-style: 'Regular';
+    font-size: 16px;
+    font-family: 'Poppins';
+    color: #575445;
+   
+    text-align: center;
+    padding-left: 170px;
+    padding-top: 10px;
+}

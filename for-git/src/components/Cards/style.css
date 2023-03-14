@@ -1,0 +1,230 @@
+.cards {
+    background-color:#f3f0de;
+    margin-top: 20px;
+}
+
+.cards-name {
+    font-style: 'Regular';
+    font-size: 16px;
+    font-family: 'Poppins';
+    color: #f1b308;
+    letter-spacing: 2px;
+
+    text-align: center;
+    padding-top: 150px;
+}
+.cards-tit {
+    font-family: 'Roboto';
+    font-style: 'Regular';
+    Font-size: 36px;
+    color: #575445;
+    text-align: center;
+}
+.cards-sub {
+    font-family: 'Poppins';
+    font-style: 'Regular';
+    font-size: 16px;
+    text-align: center;
+    color: #575445;
+}
+.cards-up {
+    display: flex;
+}
+.cards-down {
+    display: flex;
+}
+
+.card1 {
+    background-image:url(./../../Pic/cards/img1.jpg);
+    width: 379px;
+    height: 473px;
+    margin-left: 200px;
+    margin-top: 50px;
+}
+.card1-title {
+    font-family: 'Roboto';
+    font-style: 'Regular';
+    Font-size: 28px;
+    color: #575445;
+    text-align: center;
+
+    padding-top: 40px;
+}
+.card1-sub {
+    font-family: 'Poppins';
+    font-style: 'Regular';
+    font-size: 16px;
+    text-align: center;
+    color: #575445;
+    padding-top: 10px;
+}
+.card1-sup {
+    transition: 0.3s linear;
+    text-align: center;
+    padding-top: 20px;
+}
+.card-link {
+    font-family: 'Poppins';
+    font-style: 'Regular';
+    font-size: 15px;
+    color: #575445;
+    
+    text-decoration: none;
+    
+}
+.card-link:hover {
+    color: red;
+}
+
+.card2 {
+    background-image:url(./../../Pic/cards/img2.jpg);
+    width: 379px;
+    height: 473px;
+    margin-left: 30px;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+.card2-title {
+    font-family: 'Roboto';
+    font-style: 'Regular';
+    Font-size: 28px;
+    color: #575445;
+    text-align: center;
+
+    padding-top: 40px;
+}
+.card2-sub {
+    font-family: 'Poppins';
+    font-style: 'Regular';
+    font-size: 16px;
+    text-align: center;
+    color: #575445;
+    padding-top: 10px;
+}
+.card2-sup {
+    transition: 0.3s linear;
+    text-align: center;
+    padding-top: 20px;
+}
+.card3 {
+    background-image:url(./../../Pic/cards/img3.jpg);
+    width: 379px;
+    height: 473px;
+    margin-left: 30px;
+    margin-top: 50px;
+    border-radius:10px
+}
+.card3-title {
+    font-family: 'Roboto';
+    font-style: 'Regular';
+    Font-size: 28px;
+    color: #575445;
+    text-align: center;
+
+    padding-top: 40px;
+}
+.card3-sub {
+    font-family: 'Poppins';
+    font-style: 'Regular';
+    font-size: 16px;
+    text-align: center;
+    color: #575445;
+    padding-top: 10px;
+}
+.card3-sup {
+    transition: 0.3s linear;
+    text-align: center;
+    padding-top: 20px;
+}
+.card4 {
+    background-image:url(./../../Pic/cards/img4.jpg);
+    width: 379px;
+    height: 473px;
+    margin-left: 200px;
+    margin-top: 50px;
+    border-radius:10px
+}
+.card4-title {
+    font-family: 'Roboto';
+    font-style: 'Regular';
+    Font-size: 28px;
+    color: #575445;
+    text-align: center;
+
+    padding-top: 40px;
+}
+.card4-sub {
+    font-family: 'Poppins';
+    font-style: 'Regular';
+    font-size: 16px;
+    text-align: center;
+    color: #575445;
+    padding-top: 10px;
+}
+.card4-sup {
+    transition: 0.3s linear;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.card5 {
+    background-image:url(./../../Pic/cards/img5.jpg);
+    width: 379px;
+    height: 473px;
+    margin-left: 30px;
+    margin-top: 50px;
+    border-radius:10px
+}
+.card5-title {
+    font-family: 'Roboto';
+    font-style: 'Regular';
+    Font-size: 28px;
+    color: #575445;
+    text-align: center;
+
+    padding-top: 40px;
+}
+.card5-sub {
+    font-family: 'Poppins';
+    font-style: 'Regular';
+    font-size: 16px;
+    text-align: center;
+    color: #575445;
+    padding-top: 10px;
+}
+.card5-sup {
+    transition: 0.3s linear;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.card6 {
+    background-image:url(./../../Pic/cards/img6.jpg);
+    width: 379px;
+    height: 473px;
+    margin-left: 30px;
+    margin-top: 50px;
+    border-radius:10px
+}
+.card6-title {
+    font-family: 'Roboto';
+    font-style: 'Regular';
+    Font-size: 28px;
+    color: #575445;
+    text-align: center;
+
+    padding-top: 40px;
+}
+.card6-sub {
+    font-family: 'Poppins';
+    font-style: 'Regular';
+    font-size: 16px;
+    text-align: center;
+    color: #575445;
+    padding-top: 10px;
+}
+.card6-sup {
+    transition: 0.3s linear;
+    text-align: center;
+    padding-top: 20px;
+}

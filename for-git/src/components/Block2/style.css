@@ -1,0 +1,94 @@
+
+
+.block2 {
+    background-image:url(./../../Pic/block2/img1.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.block2-links {
+    display: flex;
+   margin-left: 10px;
+} 
+.block2-line {
+    display: flex;
+    background-color:#292C32;
+    width: 550px;
+    height: 40px;
+    border-radius: 10px;
+    margin-left: 520px;
+    padding-top: 5px;
+   margin-top: 5px;
+}    
+.b2-ln {
+    font-family: 'Poppins';
+    font-style: 'Regular';
+    font-size: 14px;
+    text-decoration: none;
+    transition: 0.3s linear;
+    color: #FFFFFF;
+}
+.b2-ln:hover {
+    color: red;
+}
+.b2-link1 {
+    padding-top:9px ;
+    padding-left: 10px;
+}
+.b2-link2 {
+    padding-left: 10px;
+    padding-top:9px ;
+}
+.b2-link3 {
+    padding-left: 10px;
+    padding-top:9px ;
+}
+.b2-link4 {
+    padding-left: 10px;
+    padding-top:9px ;
+}
+.b2-link5 {
+    padding-left: 10px;
+    padding-top:9px ;
+}
+
+.block2-title {
+   
+    margin-top: 500px;
+    width: 50%;
+    margin-left: 28%;
+    height: auto;
+}
+.b2-text {
+    font-family: 'Roboto';
+    font-style: 'Regular';
+    Font-size: 36px;
+    color: #f1b308;
+    text-align: center;
+}
+.b2-sub {
+    font-family: 'Poppins';
+    font-style: 'Regular';
+    font-size: 16px;
+    color: #FAFAFC;
+    text-align: center;
+}
+.b2-button {
+    text-align: center;
+    padding-top: 30px;
+}
+.b2-btn {
+    font-family: 'Poppins';
+    font-style: 'Regular';
+    font-size: 14px;
+    text-decoration: none;
+    background-color:#FFFFFF;
+    border-radius: 10px;
+    color:#575445;
+    transition: 0.4s linear;
+
+    padding: 11px 18px;
+}
+.b2-btn:hover {
+    background-color:orangered;
+}
